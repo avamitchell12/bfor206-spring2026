@@ -33,4 +33,4 @@ Please show the instructor your GitHub repository open in Visual Studio Code
 
 It should look similar to this:
 
-![GitHub Web Interface](images/Github-lab-repo.png)
+![GitHub VSCode Codespaces](images/1-1_codespaces.jpg)
