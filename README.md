@@ -11,3 +11,4 @@ Date        | Class | Topic                     | Lab                       | Lo
 2026-01-28  | 2-2   | Sick Day - No Class       | No lab                    | NA
 2026-02-02  | 3-1   | IDE Tools & Printing      | Running Code              | [`Lab 3-1`](labs/3-1_running_code_lab.md)
 2026-02-04  | 3-2   | Variables and Operations  | Variables and Operations  | [`Lab 3-2`](labs/3-2_variables_operations_lab.md)
+2026-02-09  | 4-1   | Logical Tests             | Logical Tests             | [`Lab 4-1`](labs/4-1_logical_tests.md)
