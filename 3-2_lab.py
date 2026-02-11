@@ -6,4 +6,4 @@ y = int(sys.argv[2])
 print(f'x ={x}, y = {y}') 
 product = x * y
 
-print(f'product = {product}')
+print(f'product = {product}') 
